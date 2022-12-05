@@ -1,2 +1,2 @@
-var networkName = 'Ethereum';
+var networkName = 'Qitmeer';
 var faviconPath = '/favicon.ico';
